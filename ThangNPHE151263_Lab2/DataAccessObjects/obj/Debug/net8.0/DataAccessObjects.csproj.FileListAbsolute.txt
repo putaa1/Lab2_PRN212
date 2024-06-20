@@ -1,0 +1,15 @@
+G:\Lab2_PRN212\ThangNPHE151263_Lab2\DataAccessObjects\bin\Debug\net8.0\DataAccessObjects.deps.json
+G:\Lab2_PRN212\ThangNPHE151263_Lab2\DataAccessObjects\bin\Debug\net8.0\DataAccessObjects.dll
+G:\Lab2_PRN212\ThangNPHE151263_Lab2\DataAccessObjects\bin\Debug\net8.0\DataAccessObjects.pdb
+G:\Lab2_PRN212\ThangNPHE151263_Lab2\DataAccessObjects\obj\Debug\net8.0\DataAccessObjects.GeneratedMSBuildEditorConfig.editorconfig
+G:\Lab2_PRN212\ThangNPHE151263_Lab2\DataAccessObjects\obj\Debug\net8.0\DataAccessObjects.AssemblyInfoInputs.cache
+G:\Lab2_PRN212\ThangNPHE151263_Lab2\DataAccessObjects\obj\Debug\net8.0\DataAccessObjects.AssemblyInfo.cs
+G:\Lab2_PRN212\ThangNPHE151263_Lab2\DataAccessObjects\obj\Debug\net8.0\DataAccessObjects.csproj.CoreCompileInputs.cache
+G:\Lab2_PRN212\ThangNPHE151263_Lab2\DataAccessObjects\obj\Debug\net8.0\DataAccessObjects.dll
+G:\Lab2_PRN212\ThangNPHE151263_Lab2\DataAccessObjects\obj\Debug\net8.0\refint\DataAccessObjects.dll
+G:\Lab2_PRN212\ThangNPHE151263_Lab2\DataAccessObjects\obj\Debug\net8.0\DataAccessObjects.pdb
+G:\Lab2_PRN212\ThangNPHE151263_Lab2\DataAccessObjects\obj\Debug\net8.0\ref\DataAccessObjects.dll
+G:\Lab2_PRN212\ThangNPHE151263_Lab2\DataAccessObjects\bin\Debug\net8.0\BusinessObjects.dll
+G:\Lab2_PRN212\ThangNPHE151263_Lab2\DataAccessObjects\bin\Debug\net8.0\BusinessObjects.pdb
+G:\Lab2_PRN212\ThangNPHE151263_Lab2\DataAccessObjects\obj\Debug\net8.0\DataAccessObjects.csproj.AssemblyReference.cache
+G:\Lab2_PRN212\ThangNPHE151263_Lab2\DataAccessObjects\obj\Debug\net8.0\DataAcce.79975846.Up2Date

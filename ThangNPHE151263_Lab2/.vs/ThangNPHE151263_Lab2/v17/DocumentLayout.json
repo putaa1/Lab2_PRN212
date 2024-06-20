@@ -1,0 +1,529 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\Lab2_PRN212\\ThangNPHE151263_Lab2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{70315326-CDAA-4B0A-9A44-916491ADF574}|Repositories\\Repositories.csproj|g:\\lab2_prn212\\thangnphe151263_lab2\\repositories\\accountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70315326-CDAA-4B0A-9A44-916491ADF574}|Repositories\\Repositories.csproj|solutionrelative:repositories\\accountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D081AA8-3EFC-4D43-BEF9-4561A134C600}|Services\\Services.csproj|g:\\lab2_prn212\\thangnphe151263_lab2\\services\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D081AA8-3EFC-4D43-BEF9-4561A134C600}|Services\\Services.csproj|solutionrelative:services\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D081AA8-3EFC-4D43-BEF9-4561A134C600}|Services\\Services.csproj|g:\\lab2_prn212\\thangnphe151263_lab2\\services\\iaccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D081AA8-3EFC-4D43-BEF9-4561A134C600}|Services\\Services.csproj|solutionrelative:services\\iaccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47B03D50-015A-4EC1-A31D-A24B7113BE0A}|WPFApp\\WPFApp.csproj|g:\\lab2_prn212\\thangnphe151263_lab2\\wpfapp\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47B03D50-015A-4EC1-A31D-A24B7113BE0A}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4624241-73D6-4597-828B-3FC44F04B85A}|DataAccessObjects\\DataAccessObjects.csproj|g:\\lab2_prn212\\thangnphe151263_lab2\\dataaccessobjects\\accountdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4624241-73D6-4597-828B-3FC44F04B85A}|DataAccessObjects\\DataAccessObjects.csproj|solutionrelative:dataaccessobjects\\accountdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CC751A0-4FAE-4FB4-8704-D0738A1B0774}|BusinessObjects\\BusinessObjects.csproj|g:\\lab2_prn212\\thangnphe151263_lab2\\businessobjects\\models\\accountmember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CC751A0-4FAE-4FB4-8704-D0738A1B0774}|BusinessObjects\\BusinessObjects.csproj|solutionrelative:businessobjects\\models\\accountmember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47B03D50-015A-4EC1-A31D-A24B7113BE0A}|WPFApp\\WPFApp.csproj|g:\\lab2_prn212\\thangnphe151263_lab2\\wpfapp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{47B03D50-015A-4EC1-A31D-A24B7113BE0A}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Putaa\\AppData\\Local\\Temp\\.vsdbgsrc\\b49ace08f4cd26a4f275d628999a0f91ccb8a1892704530d9e6f5bd1284082f1\\ResourcePart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47B03D50-015A-4EC1-A31D-A24B7113BE0A}|WPFApp\\WPFApp.csproj|g:\\lab2_prn212\\thangnphe151263_lab2\\wpfapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47B03D50-015A-4EC1-A31D-A24B7113BE0A}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47B03D50-015A-4EC1-A31D-A24B7113BE0A}|WPFApp\\WPFApp.csproj|g:\\lab2_prn212\\thangnphe151263_lab2\\wpfapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{47B03D50-015A-4EC1-A31D-A24B7113BE0A}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47B03D50-015A-4EC1-A31D-A24B7113BE0A}|WPFApp\\WPFApp.csproj|g:\\lab2_prn212\\thangnphe151263_lab2\\wpfapp\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{47B03D50-015A-4EC1-A31D-A24B7113BE0A}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47B03D50-015A-4EC1-A31D-A24B7113BE0A}|WPFApp\\WPFApp.csproj|g:\\lab2_prn212\\thangnphe151263_lab2\\wpfapp\\wpfapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{47B03D50-015A-4EC1-A31D-A24B7113BE0A}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\wpfapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47B03D50-015A-4EC1-A31D-A24B7113BE0A}|WPFApp\\WPFApp.csproj|g:\\lab2_prn212\\thangnphe151263_lab2\\wpfapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{47B03D50-015A-4EC1-A31D-A24B7113BE0A}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D081AA8-3EFC-4D43-BEF9-4561A134C600}|Services\\Services.csproj|g:\\lab2_prn212\\thangnphe151263_lab2\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D081AA8-3EFC-4D43-BEF9-4561A134C600}|Services\\Services.csproj|solutionrelative:services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D081AA8-3EFC-4D43-BEF9-4561A134C600}|Services\\Services.csproj|g:\\lab2_prn212\\thangnphe151263_lab2\\services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D081AA8-3EFC-4D43-BEF9-4561A134C600}|Services\\Services.csproj|solutionrelative:services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D081AA8-3EFC-4D43-BEF9-4561A134C600}|Services\\Services.csproj|g:\\lab2_prn212\\thangnphe151263_lab2\\services\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D081AA8-3EFC-4D43-BEF9-4561A134C600}|Services\\Services.csproj|solutionrelative:services\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D081AA8-3EFC-4D43-BEF9-4561A134C600}|Services\\Services.csproj|g:\\lab2_prn212\\thangnphe151263_lab2\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D081AA8-3EFC-4D43-BEF9-4561A134C600}|Services\\Services.csproj|solutionrelative:services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D081AA8-3EFC-4D43-BEF9-4561A134C600}|Services\\Services.csproj|g:\\lab2_prn212\\thangnphe151263_lab2\\services\\services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8D081AA8-3EFC-4D43-BEF9-4561A134C600}|Services\\Services.csproj|solutionrelative:services\\services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70315326-CDAA-4B0A-9A44-916491ADF574}|Repositories\\Repositories.csproj|g:\\lab2_prn212\\thangnphe151263_lab2\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70315326-CDAA-4B0A-9A44-916491ADF574}|Repositories\\Repositories.csproj|solutionrelative:repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70315326-CDAA-4B0A-9A44-916491ADF574}|Repositories\\Repositories.csproj|g:\\lab2_prn212\\thangnphe151263_lab2\\repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70315326-CDAA-4B0A-9A44-916491ADF574}|Repositories\\Repositories.csproj|solutionrelative:repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70315326-CDAA-4B0A-9A44-916491ADF574}|Repositories\\Repositories.csproj|g:\\lab2_prn212\\thangnphe151263_lab2\\repositories\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70315326-CDAA-4B0A-9A44-916491ADF574}|Repositories\\Repositories.csproj|solutionrelative:repositories\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70315326-CDAA-4B0A-9A44-916491ADF574}|Repositories\\Repositories.csproj|g:\\lab2_prn212\\thangnphe151263_lab2\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70315326-CDAA-4B0A-9A44-916491ADF574}|Repositories\\Repositories.csproj|solutionrelative:repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70315326-CDAA-4B0A-9A44-916491ADF574}|Repositories\\Repositories.csproj|g:\\lab2_prn212\\thangnphe151263_lab2\\repositories\\iaccountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70315326-CDAA-4B0A-9A44-916491ADF574}|Repositories\\Repositories.csproj|solutionrelative:repositories\\iaccountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4624241-73D6-4597-828B-3FC44F04B85A}|DataAccessObjects\\DataAccessObjects.csproj|g:\\lab2_prn212\\thangnphe151263_lab2\\dataaccessobjects\\productdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4624241-73D6-4597-828B-3FC44F04B85A}|DataAccessObjects\\DataAccessObjects.csproj|solutionrelative:dataaccessobjects\\productdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4624241-73D6-4597-828B-3FC44F04B85A}|DataAccessObjects\\DataAccessObjects.csproj|g:\\lab2_prn212\\thangnphe151263_lab2\\dataaccessobjects\\categorydao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4624241-73D6-4597-828B-3FC44F04B85A}|DataAccessObjects\\DataAccessObjects.csproj|solutionrelative:dataaccessobjects\\categorydao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4624241-73D6-4597-828B-3FC44F04B85A}|DataAccessObjects\\DataAccessObjects.csproj|g:\\lab2_prn212\\thangnphe151263_lab2\\dataaccessobjects\\dataaccessobjects.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F4624241-73D6-4597-828B-3FC44F04B85A}|DataAccessObjects\\DataAccessObjects.csproj|solutionrelative:dataaccessobjects\\dataaccessobjects.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CC751A0-4FAE-4FB4-8704-D0738A1B0774}|BusinessObjects\\BusinessObjects.csproj|g:\\lab2_prn212\\thangnphe151263_lab2\\businessobjects\\models\\mystorecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CC751A0-4FAE-4FB4-8704-D0738A1B0774}|BusinessObjects\\BusinessObjects.csproj|solutionrelative:businessobjects\\models\\mystorecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CC751A0-4FAE-4FB4-8704-D0738A1B0774}|BusinessObjects\\BusinessObjects.csproj|g:\\lab2_prn212\\thangnphe151263_lab2\\businessobjects\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CC751A0-4FAE-4FB4-8704-D0738A1B0774}|BusinessObjects\\BusinessObjects.csproj|solutionrelative:businessobjects\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CC751A0-4FAE-4FB4-8704-D0738A1B0774}|BusinessObjects\\BusinessObjects.csproj|g:\\lab2_prn212\\thangnphe151263_lab2\\businessobjects\\businessobjects.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7CC751A0-4FAE-4FB4-8704-D0738A1B0774}|BusinessObjects\\BusinessObjects.csproj|solutionrelative:businessobjects\\businessobjects.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Putaa\\Downloads\\lab2-ass2_prn212-main (1)\\lab2-ass2_prn212-main\\ProductManagementDemo\\ProductManagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AccountDAO.cs",
+              "DocumentMoniker": "G:\\Lab2_PRN212\\ThangNPHE151263_Lab2\\DataAccessObjects\\AccountDAO.cs",
+              "RelativeDocumentMoniker": "DataAccessObjects\\AccountDAO.cs",
+              "ToolTip": "G:\\Lab2_PRN212\\ThangNPHE151263_Lab2\\DataAccessObjects\\AccountDAO.cs",
+              "RelativeToolTip": "DataAccessObjects\\AccountDAO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAkwBAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T15:13:22.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AccountMember.cs",
+              "DocumentMoniker": "G:\\Lab2_PRN212\\ThangNPHE151263_Lab2\\BusinessObjects\\Models\\AccountMember.cs",
+              "RelativeDocumentMoniker": "BusinessObjects\\Models\\AccountMember.cs",
+              "ToolTip": "G:\\Lab2_PRN212\\ThangNPHE151263_Lab2\\BusinessObjects\\Models\\AccountMember.cs",
+              "RelativeToolTip": "BusinessObjects\\Models\\AccountMember.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T15:37:18.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AccountService.cs",
+              "DocumentMoniker": "G:\\Lab2_PRN212\\ThangNPHE151263_Lab2\\Services\\AccountService.cs",
+              "RelativeDocumentMoniker": "Services\\AccountService.cs",
+              "ToolTip": "G:\\Lab2_PRN212\\ThangNPHE151263_Lab2\\Services\\AccountService.cs",
+              "RelativeToolTip": "Services\\AccountService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T15:20:17.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginWindow.xaml.cs",
+              "DocumentMoniker": "G:\\Lab2_PRN212\\ThangNPHE151263_Lab2\\WPFApp\\LoginWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WPFApp\\LoginWindow.xaml.cs",
+              "ToolTip": "G:\\Lab2_PRN212\\ThangNPHE151263_Lab2\\WPFApp\\LoginWindow.xaml.cs",
+              "RelativeToolTip": "WPFApp\\LoginWindow.xaml.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAswCUAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T15:26:51.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IAccountService.cs",
+              "DocumentMoniker": "G:\\Lab2_PRN212\\ThangNPHE151263_Lab2\\Services\\IAccountService.cs",
+              "RelativeDocumentMoniker": "Services\\IAccountService.cs",
+              "ToolTip": "G:\\Lab2_PRN212\\ThangNPHE151263_Lab2\\Services\\IAccountService.cs",
+              "RelativeToolTip": "Services\\IAccountService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T15:20:37.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AccountRepository.cs",
+              "DocumentMoniker": "G:\\Lab2_PRN212\\ThangNPHE151263_Lab2\\Repositories\\AccountRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\AccountRepository.cs",
+              "ToolTip": "G:\\Lab2_PRN212\\ThangNPHE151263_Lab2\\Repositories\\AccountRepository.cs",
+              "RelativeToolTip": "Repositories\\AccountRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T15:14:40.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ICategoryService.cs",
+              "DocumentMoniker": "G:\\Lab2_PRN212\\ThangNPHE151263_Lab2\\Services\\ICategoryService.cs",
+              "RelativeDocumentMoniker": "Services\\ICategoryService.cs",
+              "ToolTip": "G:\\Lab2_PRN212\\ThangNPHE151263_Lab2\\Services\\ICategoryService.cs",
+              "RelativeToolTip": "Services\\ICategoryService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T15:21:35.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "G:\\Lab2_PRN212\\ThangNPHE151263_Lab2\\Services\\IProductService.cs",
+              "RelativeDocumentMoniker": "Services\\IProductService.cs",
+              "ToolTip": "G:\\Lab2_PRN212\\ThangNPHE151263_Lab2\\Services\\IProductService.cs",
+              "RelativeToolTip": "Services\\IProductService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T15:21:45.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "App.xaml",
+              "DocumentMoniker": "G:\\Lab2_PRN212\\ThangNPHE151263_Lab2\\WPFApp\\App.xaml",
+              "RelativeDocumentMoniker": "WPFApp\\App.xaml",
+              "ToolTip": "G:\\Lab2_PRN212\\ThangNPHE151263_Lab2\\WPFApp\\App.xaml",
+              "RelativeToolTip": "WPFApp\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-20T15:22:32.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LoginWindow.xaml",
+              "DocumentMoniker": "G:\\Lab2_PRN212\\ThangNPHE151263_Lab2\\WPFApp\\LoginWindow.xaml",
+              "RelativeDocumentMoniker": "WPFApp\\LoginWindow.xaml",
+              "ToolTip": "G:\\Lab2_PRN212\\ThangNPHE151263_Lab2\\WPFApp\\LoginWindow.xaml",
+              "RelativeToolTip": "WPFApp\\LoginWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-20T15:25:55.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "G:\\Lab2_PRN212\\ThangNPHE151263_Lab2\\WPFApp\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "WPFApp\\MainWindow.xaml",
+              "ToolTip": "G:\\Lab2_PRN212\\ThangNPHE151263_Lab2\\WPFApp\\MainWindow.xaml",
+              "RelativeToolTip": "WPFApp\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-20T15:28:12.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "G:\\Lab2_PRN212\\ThangNPHE151263_Lab2\\WPFApp\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WPFApp\\MainWindow.xaml.cs",
+              "ToolTip": "G:\\Lab2_PRN212\\ThangNPHE151263_Lab2\\WPFApp\\MainWindow.xaml.cs",
+              "RelativeToolTip": "WPFApp\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAGIAAAAAAAAAAAAAwL8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T15:30:02.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ResourcePart.cs",
+              "DocumentMoniker": "C:\\Users\\Putaa\\AppData\\Local\\Temp\\.vsdbgsrc\\b49ace08f4cd26a4f275d628999a0f91ccb8a1892704530d9e6f5bd1284082f1\\ResourcePart.cs",
+              "ToolTip": "C:\\Users\\Putaa\\AppData\\Local\\Temp\\.vsdbgsrc\\b49ace08f4cd26a4f275d628999a0f91ccb8a1892704530d9e6f5bd1284082f1\\ResourcePart.cs [Read Only]",
+              "ViewState": "AQIAABoAAAAAAAAAAAArwCoAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T15:30:57.996Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "G:\\Lab2_PRN212\\ThangNPHE151263_Lab2\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "Services\\ProductService.cs",
+              "ToolTip": "G:\\Lab2_PRN212\\ThangNPHE151263_Lab2\\Services\\ProductService.cs",
+              "RelativeToolTip": "Services\\ProductService.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAADwvyoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T15:21:21.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "WPFApp",
+              "DocumentMoniker": "G:\\Lab2_PRN212\\ThangNPHE151263_Lab2\\WPFApp\\WPFApp.csproj",
+              "RelativeDocumentMoniker": "WPFApp\\WPFApp.csproj",
+              "ToolTip": "G:\\Lab2_PRN212\\ThangNPHE151263_Lab2\\WPFApp\\WPFApp.csproj",
+              "RelativeToolTip": "WPFApp\\WPFApp.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-20T15:06:51.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "G:\\Lab2_PRN212\\ThangNPHE151263_Lab2\\Services\\CategoryService.cs",
+              "RelativeDocumentMoniker": "Services\\CategoryService.cs",
+              "ToolTip": "G:\\Lab2_PRN212\\ThangNPHE151263_Lab2\\Services\\CategoryService.cs",
+              "RelativeToolTip": "Services\\CategoryService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T15:21:12.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "G:\\Lab2_PRN212\\ThangNPHE151263_Lab2\\WPFApp\\appsettings.json",
+              "RelativeDocumentMoniker": "WPFApp\\appsettings.json",
+              "ToolTip": "G:\\Lab2_PRN212\\ThangNPHE151263_Lab2\\WPFApp\\appsettings.json",
+              "RelativeToolTip": "WPFApp\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-20T15:07:10.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Services",
+              "DocumentMoniker": "G:\\Lab2_PRN212\\ThangNPHE151263_Lab2\\Services\\Services.csproj",
+              "RelativeDocumentMoniker": "Services\\Services.csproj",
+              "ToolTip": "G:\\Lab2_PRN212\\ThangNPHE151263_Lab2\\Services\\Services.csproj",
+              "RelativeToolTip": "Services\\Services.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-20T15:19:48.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "G:\\Lab2_PRN212\\ThangNPHE151263_Lab2\\Repositories\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\ProductRepository.cs",
+              "ToolTip": "G:\\Lab2_PRN212\\ThangNPHE151263_Lab2\\Repositories\\ProductRepository.cs",
+              "RelativeToolTip": "Repositories\\ProductRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAkAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T15:19:25.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "G:\\Lab2_PRN212\\ThangNPHE151263_Lab2\\Repositories\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\IProductRepository.cs",
+              "ToolTip": "G:\\Lab2_PRN212\\ThangNPHE151263_Lab2\\Repositories\\IProductRepository.cs",
+              "RelativeToolTip": "Repositories\\IProductRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T15:19:10.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ICategoryRepository.cs",
+              "DocumentMoniker": "G:\\Lab2_PRN212\\ThangNPHE151263_Lab2\\Repositories\\ICategoryRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\ICategoryRepository.cs",
+              "ToolTip": "G:\\Lab2_PRN212\\ThangNPHE151263_Lab2\\Repositories\\ICategoryRepository.cs",
+              "RelativeToolTip": "Repositories\\ICategoryRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T15:18:52.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "G:\\Lab2_PRN212\\ThangNPHE151263_Lab2\\Repositories\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\CategoryRepository.cs",
+              "ToolTip": "G:\\Lab2_PRN212\\ThangNPHE151263_Lab2\\Repositories\\CategoryRepository.cs",
+              "RelativeToolTip": "Repositories\\CategoryRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T15:18:15.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IAccountRepository.cs",
+              "DocumentMoniker": "G:\\Lab2_PRN212\\ThangNPHE151263_Lab2\\Repositories\\IAccountRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\IAccountRepository.cs",
+              "ToolTip": "G:\\Lab2_PRN212\\ThangNPHE151263_Lab2\\Repositories\\IAccountRepository.cs",
+              "RelativeToolTip": "Repositories\\IAccountRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T15:15:19.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ProductDAO.cs",
+              "DocumentMoniker": "G:\\Lab2_PRN212\\ThangNPHE151263_Lab2\\DataAccessObjects\\ProductDAO.cs",
+              "RelativeDocumentMoniker": "DataAccessObjects\\ProductDAO.cs",
+              "ToolTip": "G:\\Lab2_PRN212\\ThangNPHE151263_Lab2\\DataAccessObjects\\ProductDAO.cs",
+              "RelativeToolTip": "DataAccessObjects\\ProductDAO.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAywCsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T15:14:08.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "CategoryDAO.cs",
+              "DocumentMoniker": "G:\\Lab2_PRN212\\ThangNPHE151263_Lab2\\DataAccessObjects\\CategoryDAO.cs",
+              "RelativeDocumentMoniker": "DataAccessObjects\\CategoryDAO.cs",
+              "ToolTip": "G:\\Lab2_PRN212\\ThangNPHE151263_Lab2\\DataAccessObjects\\CategoryDAO.cs",
+              "RelativeToolTip": "DataAccessObjects\\CategoryDAO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T15:13:53.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "DataAccessObjects",
+              "DocumentMoniker": "G:\\Lab2_PRN212\\ThangNPHE151263_Lab2\\DataAccessObjects\\DataAccessObjects.csproj",
+              "RelativeDocumentMoniker": "DataAccessObjects\\DataAccessObjects.csproj",
+              "ToolTip": "G:\\Lab2_PRN212\\ThangNPHE151263_Lab2\\DataAccessObjects\\DataAccessObjects.csproj",
+              "RelativeToolTip": "DataAccessObjects\\DataAccessObjects.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-20T15:12:49.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "MyStoreContext.cs",
+              "DocumentMoniker": "G:\\Lab2_PRN212\\ThangNPHE151263_Lab2\\BusinessObjects\\Models\\MyStoreContext.cs",
+              "RelativeDocumentMoniker": "BusinessObjects\\Models\\MyStoreContext.cs",
+              "ToolTip": "G:\\Lab2_PRN212\\ThangNPHE151263_Lab2\\BusinessObjects\\Models\\MyStoreContext.cs",
+              "RelativeToolTip": "BusinessObjects\\Models\\MyStoreContext.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAgwCIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T15:12:24.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Product.cs",
+              "DocumentMoniker": "G:\\Lab2_PRN212\\ThangNPHE151263_Lab2\\BusinessObjects\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "BusinessObjects\\Models\\Product.cs",
+              "ToolTip": "G:\\Lab2_PRN212\\ThangNPHE151263_Lab2\\BusinessObjects\\Models\\Product.cs",
+              "RelativeToolTip": "BusinessObjects\\Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T15:12:23.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "BusinessObjects",
+              "DocumentMoniker": "G:\\Lab2_PRN212\\ThangNPHE151263_Lab2\\BusinessObjects\\BusinessObjects.csproj",
+              "RelativeDocumentMoniker": "BusinessObjects\\BusinessObjects.csproj",
+              "ToolTip": "G:\\Lab2_PRN212\\ThangNPHE151263_Lab2\\BusinessObjects\\BusinessObjects.csproj",
+              "RelativeToolTip": "BusinessObjects\\BusinessObjects.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-20T15:08:22.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Putaa\\Downloads\\lab2-ass2_prn212-main (1)\\lab2-ass2_prn212-main\\ProductManagementDemo\\ProductManagement\\appsettings.json",
+              "ToolTip": "C:\\Users\\Putaa\\Downloads\\lab2-ass2_prn212-main (1)\\lab2-ass2_prn212-main\\ProductManagementDemo\\ProductManagement\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-20T15:06:47.366Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

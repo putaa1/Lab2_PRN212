@@ -1,0 +1,17 @@
+G:\Lab2_PRN212\ThangNPHE151263_Lab2\Repositories\bin\Debug\net8.0\Repositories.deps.json
+G:\Lab2_PRN212\ThangNPHE151263_Lab2\Repositories\bin\Debug\net8.0\Repositories.dll
+G:\Lab2_PRN212\ThangNPHE151263_Lab2\Repositories\bin\Debug\net8.0\Repositories.pdb
+G:\Lab2_PRN212\ThangNPHE151263_Lab2\Repositories\obj\Debug\net8.0\Repositories.GeneratedMSBuildEditorConfig.editorconfig
+G:\Lab2_PRN212\ThangNPHE151263_Lab2\Repositories\obj\Debug\net8.0\Repositories.AssemblyInfoInputs.cache
+G:\Lab2_PRN212\ThangNPHE151263_Lab2\Repositories\obj\Debug\net8.0\Repositories.AssemblyInfo.cs
+G:\Lab2_PRN212\ThangNPHE151263_Lab2\Repositories\obj\Debug\net8.0\Repositories.csproj.CoreCompileInputs.cache
+G:\Lab2_PRN212\ThangNPHE151263_Lab2\Repositories\obj\Debug\net8.0\Repositories.dll
+G:\Lab2_PRN212\ThangNPHE151263_Lab2\Repositories\obj\Debug\net8.0\refint\Repositories.dll
+G:\Lab2_PRN212\ThangNPHE151263_Lab2\Repositories\obj\Debug\net8.0\Repositories.pdb
+G:\Lab2_PRN212\ThangNPHE151263_Lab2\Repositories\obj\Debug\net8.0\ref\Repositories.dll
+G:\Lab2_PRN212\ThangNPHE151263_Lab2\Repositories\bin\Debug\net8.0\BusinessObjects.dll
+G:\Lab2_PRN212\ThangNPHE151263_Lab2\Repositories\bin\Debug\net8.0\DataAccessObjects.dll
+G:\Lab2_PRN212\ThangNPHE151263_Lab2\Repositories\bin\Debug\net8.0\BusinessObjects.pdb
+G:\Lab2_PRN212\ThangNPHE151263_Lab2\Repositories\bin\Debug\net8.0\DataAccessObjects.pdb
+G:\Lab2_PRN212\ThangNPHE151263_Lab2\Repositories\obj\Debug\net8.0\Repositories.csproj.AssemblyReference.cache
+G:\Lab2_PRN212\ThangNPHE151263_Lab2\Repositories\obj\Debug\net8.0\Reposito.787EC4B2.Up2Date
